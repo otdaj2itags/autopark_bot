@@ -36,7 +36,7 @@ logging.basicConfig(
 )
 
 # Ваш токен Telegram-бота (установите его в переменной окружения)
-API_TOKEN = '7546308673:AAFQI4zOYwjZtgM9Ra-uMURhdLYp9TMEwjY'
+API_TOKEN = ''
 
 # Создание объектов бота и диспетчера
 bot = Bot(token=API_TOKEN)
